@@ -1,0 +1,37 @@
+body{
+    margin-left:1.5rem;
+    /* background-color: burlywood; */
+    /* background-image:url(https://www.blogtyrant.com/wp-content/uploads/2015/02/blogging-strategy.png); */
+    /* background-size:cover; */
+}
+
+
+.chat{
+    background-color: rgb(246, 246, 135);
+    padding:1rem;
+    /* display:inline-block; */
+    /* div block elem to inline kiya */
+}
+
+.msg{
+    background-color: dodgerblue;
+    color:white;
+    font-size: 2.5rem;
+    padding:0.5rem 1rem;
+    border-radius:1.3rem;
+}
+
+h1{
+    text-align: center;
+    font-size: 5rem;
+    color:rgb(6, 0, 97);
+    font-family: cursive;
+}
+
+.par-div{
+    display:flex;
+    /* padding:1rem; */
+}
+.par-div button{
+    margin:0.5rem;
+}
